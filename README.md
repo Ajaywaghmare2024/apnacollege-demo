@@ -1,4 +1,4 @@
 # apnacollege-demo
 This my first Repository
 <br>
-Author - Ajay Waghmare  form mohol
+Author - Ajay Waghmare  from mohol
